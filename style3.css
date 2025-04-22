@@ -1,0 +1,115 @@
+.navbar{
+    margin: 0%;
+    background-color: greenyellow;
+}
+.navbar ul{
+      list-style-type: none;
+      display: block;
+      overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+}
+.navbar li{
+    float: left;
+    padding: 0pt 200pt;
+}
+.navbar a:hover{
+    background-color: aqua;
+}
+
+body{
+    border: 4pt solid green;
+    height: 1700pt;
+}
+.box1 ul{
+    list-style-type: none;
+    display: block;
+    overflow: hidden;
+}
+.box1 li{
+    float: left;
+    padding: 1pt 4pt;
+    margin: 1pt;
+}
+.rectangle{
+    border: 2pt solid greenyellow;
+    height: 1400pt;
+    width: 520pt;
+    
+}
+
+.second1{
+    color: orange;
+    font-size: 15pt;
+}
+.second2{
+    color: orange;
+    font-size: 30pt;
+}
+.rectangle2{
+    color: gray;
+    margin-left: 8pt;
+    padding: 2pt;
+    border: 2pt solid goldenrod;
+    height: 40pt;
+    width: 500pt;
+
+}
+.chaoba{
+    margin-left: 2%;
+      float: left;
+      color: orchid;  
+      size: 15%; 
+}
+.babu{
+    margin-left: 2%;
+    float: left;
+    color: blueviolet;
+    size: 15%;
+}
+.footer ul{
+    list-style-type: none;
+    display: block;
+    overflow: hidden;
+}
+ .footer li{
+    float: left;
+    padding: 1pt 4pt;
+    margin: 1pt;
+}
+
+.aboutme{
+    font-size: 12pt;
+    height: 50pt;
+    width: 520pt;
+    
+
+}
+.contactus{
+    font-size: 12pt;
+    height: 50pt;
+    width: 520pt;
+    float: right;
+    text-align: center;
+} 
+.me2{
+    color: black;
+    font-size: 12pt;
+    margin:  5pt ;
+
+}
+.us2{
+    color: black;
+    font-size: 12pt;
+    margin: 4pt;
+}
+.footer1{
+    background-color: greenyellow;
+    margin: 7pt;
+    border: 2pt solid green;
+    width: 1100pt;
+    height: 100pt;
+}
+
+
